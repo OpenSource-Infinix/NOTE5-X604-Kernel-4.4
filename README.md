@@ -1,5 +1,3 @@
-# NOTE5-X604-Kernel-4.4
-
       Linux kernel release 4.x <http://kernel.org/>
 
 These are the release notes for Linux version 4.  Read them carefully,
